@@ -4,8 +4,7 @@
 </head>
 <body>
 <h1>Improving the quality of chest x-ray images using pix2pix GAN model</h1>
-<img src="" alt="Original image">
-<img src="" alt="Improved image">
+
 <h2>Introduction</h2>
 
 Chest x-ray images are a common diagnostic tool used to detect diseases such as pneumonia, tuberculosis, and lung cancer. However, the quality of chest x-ray images can vary depending on a number of factors, such as the type of equipment used and the skill of the technician. Low-quality chest x-ray images can make it difficult for doctors to diagnose diseases accurately.
@@ -39,6 +38,14 @@ There are a few limitations to using a pix2pix GAN model to improve the quality 
 * Pix2pix GAN models can be computationally expensive to train.
 * Pix2pix GAN models can generate images that are not realistic or accurate.
 * Pix2pix GAN models are not a substitute for the expertise of a trained radiologist.
+
+<b>
+</b>Quality degraded image and Original image</b>
+<img src="concatenated_IM-0001-0001.jpeg" alt="Quality degraded image and Original image",height="100",width="150">
+<b>Improved Image</b>
+<div style="text-align: center;">
+   <img src="test_xray.jpg" alt="Improved image">
+</div>
 
 <h2>Conclusion</h2>
 
