@@ -47,6 +47,8 @@ There are a few limitations to using a pix2pix GAN model to improve the quality 
    <img src="test_xray.jpg" alt="Improved image">
 </div>
 
+<p>As we see the quality of the original image is 75 and the imput images are degraded to 20 while the generated image is 90.</p>
+
 <h2>Conclusion</h2>
 
 Pix2pix GAN models are a promising new technology for improving the quality of chest x-ray images. Pix2pix GAN models have the potential to improve the diagnosis of diseases that are visible on chest x-rays, such as pneumonia and tuberculosis. However, more research is needed to address the limitations of pix2pix GAN models before they can be widely used in clinical practice.
